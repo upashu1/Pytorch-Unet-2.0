@@ -8,7 +8,7 @@ Example results for the pre-trained models :
 
 Input Image            |  Output Segmentation Image 
 :-------------------------:|:-------------------------:
-![](303.png)  |  ![](303outmaskunet2.png)
+![](307.png)  |  ![](307outmaskunet2.png)
 ![](313.png)  |  ![](313outmaskunet2.png)
 
 
