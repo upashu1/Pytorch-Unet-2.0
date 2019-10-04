@@ -4,9 +4,13 @@ Improved UNet CNN Deep Learning Image Segmentation for noisy images. More accura
 ## Note
 ## [# Download the repository from here](https://github.com/upashu1/Pytorch-UNet-2)
 
+Example results for the pre-trained models :
 
+Input Image            |  Output Segmentation Image 
+:-------------------------:|:-------------------------:
+![](303.png)  |  ![](303outmaskunet2.png)
+![](313.png)  |  ![](313outmaskunet2.png)
 
-![input file](303.png) ![output file unet2](303outmaskunet2.png)
 
 UNet 2.0 is a modified version of UNet for better segmentation even image is noisy. Below is the pictorial view difference between UNet and UNet 2.0.
 ![picutre of unet and unet2](Unet2.png)
